@@ -39,7 +39,7 @@
   "homepage": "https://github.com/CognosExt/jcognos#readme",
   "devDependencies": {
     "@babel/core": "^7.4.0",
-    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-env": "^7.4.2",
     "@babel/register": "^7.0.0",
     "@wdio/cli": "^5.7.3",
     "@wdio/local-runner": "^5.7.3",
